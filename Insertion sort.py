@@ -17,4 +17,3 @@ for a in range(1, n):
         print(f"after every iteration: ", arr)
 
 print("elements after sorting:", arr)
-
